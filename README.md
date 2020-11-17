@@ -3,8 +3,6 @@
 FlagSim is a simulation program developed for the purpose of research and analysis of two-lane, two-way work zones under flagging or signal control. This program utilizes a stochastic, microscopic modeling approach. It is not intended or designed to be used for other roadway/work zone configurations, and is designed only for operations utilizing flagging or signal control, without a pilot car.
 
 <img src="splash_screen.jpg"/>
-<br>
-<br>
 
 ## Additional Information
 
